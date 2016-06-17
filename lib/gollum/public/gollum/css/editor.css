@@ -71,7 +71,7 @@ a {
   border: 1px solid #ddd;
   color: #000;
   font-size: 1.1em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   line-height: 1.5em;
   margin: 1em 0 0.4em;
   padding: 0.5em;
@@ -286,7 +286,7 @@ a#function-help:hover span { background-position: -402px -25px; }
   color: #333;
 
   font-size: 1em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
   line-height: 1.6em;
   padding: 0.3em 0.4em;
@@ -369,7 +369,7 @@ a#function-help:hover span { background-position: -402px -25px; }
   background: #fff;
   border: 1px solid #ddd;
   font-size: 1em;
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-family: monospace;
   line-height: 1.4em;
   margin: 0 0 0.4em;
   padding: 0.5em;
@@ -391,7 +391,7 @@ a#function-help:hover span { background-position: -402px -25px; }
   display: block;
   float: left;
   font-size: 1em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
   margin: 0;
   padding: 0.4em 1em;
@@ -520,7 +520,7 @@ a#function-help:hover span { background-position: -402px -25px; }
   clear: both;
   display: block;
   font-size: 1em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   height: 7em;
   line-height: 1.4em;
   margin: 0.7em 0;
@@ -538,7 +538,7 @@ a#function-help:hover span { background-position: -402px -25px; }
   cursor: pointer;
   display: block;
   font-size: 1em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
   line-height: 1.2em;
   margin: 0 0 0 0.8em;
