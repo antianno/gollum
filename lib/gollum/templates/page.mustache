@@ -46,6 +46,9 @@ Mousetrap.bind(['e'], function( e ) {
     <li class="minibutton"><a href="{{base_url}}/latest_changes"
        class="action-page-history">Latest Changes</a></li>
     {{/page_exists}}
+    {{#logged_in}}
+    <li class="minibutton"><a href="{{base_url}}/__protected__/logout" class="action-logout" title="Currently logged in as {{user_name}}">Logout</a></li>
+    {{/logged_in}}
   </ul>
 </div>
 <div id="wiki-content">

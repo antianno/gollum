@@ -40,6 +40,14 @@ module Precious
         @js
       end
 
+      def logged_in
+        !@user.nil?
+      end
+
+      def user_name
+        @user.name
+      end
+
     end
   end
 end
