@@ -122,6 +122,7 @@
 
   #gollum-dialog-dialog-bg {
     height: auto;
+    min-height: 356px;
 
     box-sizing: content-box;
     -moz-box-sizing: content-box;
